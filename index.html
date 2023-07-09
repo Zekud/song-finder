@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon" />
+    <title>song Finder</title>
+  </head>
+  <body>
+    <h1>Hard-Rock song-preview Finder</h1>
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-6 text-center" id="first-div">
+          <input
+            type="text"
+            id="search"
+            class="form-control"
+            placeholder="Enter your aritst song name here"
+          />
+          <button class="btn btn-success" id="searchBtn">Search</button>
+        </div>
+      </div>
+    </div>
+    <div
+      id="song-container"
+      class="search-result col-md-8 mx-auto py-4 row align-items-center justify-content-center"
+    ></div>
+    <script src="app.js"></script>
+  </body>
+</html>
