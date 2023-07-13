@@ -38,3 +38,7 @@ h1 {
 .single-result {
   background-color: rgba(138, 136, 136, 0.3);
 }
+footer {
+  font-size: small;
+  text-align: center;
+}
