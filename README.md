@@ -10,3 +10,5 @@ example: https://api.lyrics.ovh/suggest/hello
 
 You can check the project 
 [Here](https://zekud.github.io/song-finder/)
+
+ or download the file and see how it works in real.
