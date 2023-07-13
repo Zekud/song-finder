@@ -12,3 +12,5 @@ You can check the project
 [Here](https://zekud.github.io/song-finder/)
 
  or download the file and see how it works in real.
+
+if you find it intersting give it a star⭐⭐🤩
